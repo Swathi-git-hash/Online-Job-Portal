@@ -1,0 +1,3 @@
+django-admin startproject jobportal
+cd jobportal
+python manage.py startapp jobs
